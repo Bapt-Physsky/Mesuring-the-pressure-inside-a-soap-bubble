@@ -55,8 +55,12 @@ The scheme of the scale measuring method is the "chemix_numbered.png" file, and 
 
 The python programme is in french, but, you can ask for a english version !
 
+How it's work ? Well, this python code is for making plot based on the .txt file. The first plot are about the pressure differential evolution during the deflating of the bubble and the second one illustrate the surface tension.
+
 #################################################
 
-Log : (d-mm-year)
+Log : (day-month-year)
 
-2-10-2021 : Read me complété ; ajout code python ; ajout schéma expérience
+2-10-2021 : Read me complété ; ajout code python ; ajout schéma expérience ;
+
+3-10-2021 : Read me ajourné ;
