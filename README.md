@@ -1,7 +1,7 @@
 # Mesuring-the-pressure-inside-a-soap-bubble
 This is about my experimental project that I did in third year of my Licence de Physique à l'UBO.
 
-Me and my pair, with our referent professor, tried to mesure the pressure inside a soap bubble with a MEMS pressure captor, but after some experiment, we came back on the indirect method due to the high sensibility of the MEMS captor and the high nose of the wintery weather.
+Me and my pair, with our referent professor, tried to mesure the pressure inside a soap bubble with a MEMS pressure sensor, but after some experiment, we came back on the indirect method due to the high sensibility of the MEMS sensor and the high nose of the wintery weather.
 
 #################################################
 
@@ -10,6 +10,21 @@ Subject abstract (in french, english translation below) :
 Le but de l'expérience est de mesurer la pression dans une bulle de savon en fonction de son rayon. Théoriquement, la différence de pression entre l'intérieur et l'extérieur d'une bulle d'un rayon 10 mm est de seulement 10^-4 atm (10 Pa). C'est la limite de la précision d'un manomètre à l'eau. Par contre, les capteurs basés sur la technologie MEMS (microsystèmes électromécaniques), qui se trouvent par exemple dans les smartphones, peuvent avoir une meilleure sensibilité. Quel est leur principe de fonctionnement ? Est-il possible de l'utiliser pour ce projet ?
 
 The goal of this experiment is to mesure the pressure inside a soap bubble according to its radius. Theorically, the pressure difference between inside and outside a bubble with a radius of 10mm is about 10^-4 atm (10 Pascal). It's the limit of precision for a water pressure gauge. However, MEMS-tech based sensors, who can be found in smartphone, can have a better sensibility. How their work ? Is it possible to use them in this project ?
+
+#################################################
+
+How we worked ?
+
+We started by using a "direct" measuring method, by using a home-made wareglass (-image to include- ; protocol not finished) :
+
+1. We put the MEMS sensor inside the jame jar ;
+2. We plunge the mountpiece in the soap solution ;
+3. We hit the record button (the camera has to record the bubble in a way that it is possible to measure is diameter later) ;
+4. To inflated the bubble, the operator (one of use) injected air in the system with the syringe ;
+5. When the bubble is fully inflated, the operator remove the syringe and immediatly, with his finger, clamp the nozzle to prevent air escaping (and thus, the bubble deflecting) ;
+6. The operator release a very little bit his finger, deflating the bubble as slow as possible
+
+But, after a few try and run of the previous protocol, we find out that the MEMS sensor is to sensible for this experiment. Because, even inside the closed jar, is was still able to catch the atmospheric variation, who turn out to be a lot in the breton wintery weather (thanks the "giboulées de Mars" - March's sleet). So, my pair buy another MEMS sensor (the same as the one we already use), to counter-act the atmospheric pressure variation.
 
 #################################################
 
@@ -64,3 +79,7 @@ Log : (day-month-year)
 2-10-2021 : Read me complété ; ajout code python ; ajout schéma expérience ;
 
 3-10-2021 : Read me ajourné ;
+
+4-10-2021 : Correction Read me ;
+
+
