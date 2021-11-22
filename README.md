@@ -20,11 +20,11 @@ We started by using a "direct" measuring method, by using a home-made wareglass 
 1. We put the MEMS sensor inside the jame jar ;
 2. We plunge the mountpiece in the soap solution ;
 3. We hit the record button (the camera has to record the bubble in a way that it is possible to measure is diameter later) ;
-4. To inflated the bubble, the operator (one of use) injected air in the system with the syringe ;
+4. To inflated the bubble, the operator (one of us) injected air in the system with the syringe ;
 5. When the bubble is fully inflated, the operator remove the syringe and immediatly, with his finger, clamp the nozzle to prevent air escaping (and thus, the bubble deflecting) ;
 6. The operator release a very little bit his finger, deflating the bubble as slow as possible
 
-But, after a few try and run of the previous protocol, we find out that the MEMS sensor is to sensible for this experiment. Because, even inside the closed jar, is was still able to catch the atmospheric variation, who turn out to be a lot in the breton wintery weather (thanks the "giboulées de Mars" - March's sleet). So, my pair buy another MEMS sensor (the same as the one we already use), to counter-act the atmospheric pressure variation.
+But, after a few try and run of the previous protocol, we find out that the MEMS sensor is too sensible for this experiment. Because, even inside the closed jar, is was still able to catch the atmospheric variation, who turn out to be a lot in the breton wintery weather (thanks the "giboulées de Mars" - March's sleet). So, my pair buy another MEMS sensor (the same as the one we already use), to counter-act the atmospheric pressure variation.
 
 #################################################
 
@@ -81,5 +81,7 @@ Log : (day-month-year)
 3-10-2021 : Read me ajourné ;
 
 4-10-2021 : Correction Read me ;
+
+22-11-2021 : Correction Read me ;
 
 
