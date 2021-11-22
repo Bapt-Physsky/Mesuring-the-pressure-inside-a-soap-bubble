@@ -1,5 +1,5 @@
 # Mesuring-the-pressure-inside-a-soap-bubble
-This is about my experimental project that I did in third year of my Licence de Physique à l'UBO.
+This is about my experimental project that I did in third year of my Licence de Physique (Physics degree) at Université de Bretagne Occidentale.
 
 Me and my pair, with our referent professor, tried to mesure the pressure inside a soap bubble with a MEMS pressure sensor, but after some experiment, we came back on the indirect method due to the high sensibility of the MEMS sensor and the high nose of the wintery weather.
 
